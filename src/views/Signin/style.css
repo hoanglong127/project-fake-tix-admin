@@ -1,0 +1,11 @@
+.signIn .ant-typography {
+  text-align: center;
+}
+
+.signIn .ant-form-item-label {
+  text-align: left;
+}
+
+.signIn .ant-btn.ant-btn-primary {
+  margin-right: 10px;
+}

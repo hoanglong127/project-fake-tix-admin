@@ -1,0 +1,35 @@
+.movieManage {
+  width: 100%;
+}
+
+.movieManage .ant-typography {
+  margin-bottom: 15px;
+}
+
+.movieManage-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.movieManage-controls > .ant-btn {
+  font-size: 16px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.movieManage .ant-form-item-label {
+  text-align: left;
+}
+
+.movieManage .movie-detail {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.movieManage .movie-detail img {
+  width: 100px;
+  margin-right: 15px;
+}
